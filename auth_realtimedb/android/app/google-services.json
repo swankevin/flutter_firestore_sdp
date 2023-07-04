@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928333368513",
+    "firebase_url": "https://fir-auth-db-38e42-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-auth-db-38e42",
+    "storage_bucket": "fir-auth-db-38e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928333368513:android:379db7daa1370a9a4b9840",
+        "android_client_info": {
+          "package_name": "com.example.auth_realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928333368513-hc2t5o4cps3ok8urv1fuu690hjeq292d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPY10JNZsiD3CONz8gNfMLpLRSQWeL6Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928333368513-hc2t5o4cps3ok8urv1fuu690hjeq292d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
